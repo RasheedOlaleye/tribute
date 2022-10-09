@@ -1,0 +1,42 @@
+*{
+    margin:0;
+}
+body{
+    text-align: center;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: brown;
+    margin:20px;
+}
+.name{
+    padding: 10px;
+    color: black;
+    text-transform: capitalize;
+}
+.tribute-image{
+    margin: 20px 20px ;
+    padding: 10px;
+}
+.img{
+    border: 3px solid brown;
+    border-radius: 20px;
+    width: 200px;
+    box-shadow: 20px 20px 20px black;
+
+}
+
+.img:hover{
+   border: 50px solid yellowgreen;
+}
+.tribute{
+    margin:5px 20px 5px 30px;
+    height: auto;
+    box-shadow:10px 10px 10px 10px goldenrod;
+    color:whitesmoke;
+    ;
+}
+.title.h2{
+    margin-bottom: 10px;
+    border: 1px solid burlywood;
+}
+
